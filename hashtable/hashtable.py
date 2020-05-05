@@ -1,7 +1,7 @@
 class HashTableEntry:
     """
     Hash Table entry, as a linked list node.
-    """
+    """ 
 
     def __init__(self, key, value):
         self.key = key
